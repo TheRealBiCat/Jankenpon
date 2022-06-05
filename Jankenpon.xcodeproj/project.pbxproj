@@ -14,6 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C09B9487282F8C8200F34D7E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		C0F5D422282E7BDC001A5061 /* Jankenpon.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Jankenpon.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C0F5D425282E7BDC001A5061 /* JankenponApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JankenponApp.swift; sourceTree = "<group>"; };
 		C0F5D427282E7BDC001A5061 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -51,6 +52,7 @@
 		C0F5D424282E7BDC001A5061 /* Jankenpon */ = {
 			isa = PBXGroup;
 			children = (
+				C09B9487282F8C8200F34D7E /* Info.plist */,
 				C0F5D425282E7BDC001A5061 /* JankenponApp.swift */,
 				C0F5D427282E7BDC001A5061 /* ContentView.swift */,
 				C0F5D429282E7BDE001A5061 /* Assets.xcassets */,
@@ -270,6 +272,7 @@
 				DEVELOPMENT_TEAM = 332AW93TP4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Jankenpon/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -299,6 +302,7 @@
 				DEVELOPMENT_TEAM = 332AW93TP4;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Jankenpon/Info.plist;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
